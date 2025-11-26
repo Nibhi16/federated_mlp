@@ -50,12 +50,12 @@ python client_sim.py
 
 ### Option 2: Single Client Mode
 
-1. **Start the server** (in one terminal):
+1. **Start the server** (in one terminal):-
    ```bash
    python server.py
    ```
 
-2. **Start clients** (in separate terminals):
+2. **Start clients** (in separate terminals):-
    ```bash
    python client.py
    ```
